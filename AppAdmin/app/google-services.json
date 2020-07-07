@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "1041320544675",
+    "firebase_url": "https://weatherapp-33162.firebaseio.com",
+    "project_id": "weatherapp-33162",
+    "storage_bucket": "weatherapp-33162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041320544675:android:a60b35244b4332b5",
+        "android_client_info": {
+          "package_name": "academy.learnprogramming.weather_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041320544675-g0mb2v2p54qq3k6jctjb9uq1ag8k9ku2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "academy.learnprogramming.weather_admin",
+            "certificate_hash": "e0751c90d99244cd05ede285e513fed811c71ddf"
+          }
+        },
+        {
+          "client_id": "1041320544675-0nbehep21p2tp2eucb1p8k27a4l4orpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6UvhCMGmIzNJYXByvW9HPm4JDRo0alg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041320544675-0nbehep21p2tp2eucb1p8k27a4l4orpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041320544675:android:371b4e326f5a8c62",
+        "android_client_info": {
+          "package_name": "project.msc.leo.admin_weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041320544675-bnmkf5g6o6s9ssijmj9ufok93uq3jup9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.msc.leo.admin_weatherapp",
+            "certificate_hash": "e0751c90d99244cd05ede285e513fed811c71ddf"
+          }
+        },
+        {
+          "client_id": "1041320544675-0nbehep21p2tp2eucb1p8k27a4l4orpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6UvhCMGmIzNJYXByvW9HPm4JDRo0alg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041320544675-0nbehep21p2tp2eucb1p8k27a4l4orpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041320544675:android:80a89106abda9130",
+        "android_client_info": {
+          "package_name": "project.msc.leo.weatherappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041320544675-737m97e9hsdjpigiea996oob7op6ri9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.msc.leo.weatherappadmin",
+            "certificate_hash": "2d0a7b925cd0bf6aa2241117b17019d17265144c"
+          }
+        },
+        {
+          "client_id": "1041320544675-0nbehep21p2tp2eucb1p8k27a4l4orpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6UvhCMGmIzNJYXByvW9HPm4JDRo0alg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041320544675-0nbehep21p2tp2eucb1p8k27a4l4orpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
