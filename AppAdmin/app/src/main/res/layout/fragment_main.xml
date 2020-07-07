@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.MainFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@android:color/holo_blue_light"
+        android:paddingTop="140dp">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Select a Location"
+            android:textSize="21sp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/StokeButton"
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/weather_button"
+            android:backgroundTint="#684dff"
+            android:paddingLeft="5dp"
+            android:paddingRight="10dp"
+            android:text="Stoke-On-Trent"
+            android:textColor="#ffe138" />
+
+        <Button
+            android:id="@+id/LondonButton"
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/weather_button"
+            android:backgroundTint="#684dff"
+            android:paddingLeft="5dp"
+            android:paddingRight="10dp"
+            android:text="London"
+            android:textColor="#ffe138" />
+
+        <Button
+            android:id="@+id/CoventryButton"
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/weather_button"
+            android:backgroundTint="#684dff"
+            android:paddingLeft="5dp"
+            android:paddingRight="10dp"
+            android:text="Coventry"
+            android:textColor="#ffe138" />
+
+
+    </LinearLayout>
+
+</FrameLayout>
