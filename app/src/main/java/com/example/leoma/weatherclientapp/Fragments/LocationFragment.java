@@ -96,7 +96,7 @@ public class LocationFragment extends Fragment {
 
     }
 
-
+/*Add some commentsss*/
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
